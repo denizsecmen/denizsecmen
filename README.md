@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denizsecmen
+- 👋 Hi, I’m Deniz Seçmen
 - 👀 I’m interested in Backend programming,Network security
 - 🌱 I’m currently learning Node.js,Javascript
 - 💞️ I’m looking to collaborate on none
