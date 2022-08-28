@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend programming,Network security
 - 🌱 I’m currently learning Node.js,Javascript
 - 💞️ I’m looking to collaborate on none
-- 📫 How to reach me:denizsecmen1240@gmail.com
+- 📫 How to reach me: denizsecmen1240@gmail.com
 
 <!---
 denizsecmen/denizsecmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
