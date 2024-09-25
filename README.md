@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me: denizsecmen1240@gmail.com
   
-##[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizsecmen)](https://github.com/denizsecmen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizsecmen)](https://github.com/denizsecmen)
